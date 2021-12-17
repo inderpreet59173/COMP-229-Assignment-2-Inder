@@ -1,5 +1,5 @@
 {
-  "name": "comp-229-assignment-1",
+  "name": "comp-229-assignment-2",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -21,17 +21,20 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
-  "description": "Assignment 1 by Inderpreet Singh",
+  "description": "Assignment 2 by Inderpreet Singh",
   "main": "server.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder.git"
+    "url": "git+https://github.com/inderpreet59173/COMP-229-Assignment-2-Inder.git"
   },
   "author": "301143816 inderpreet singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder/issues"
+    "url": "https://github.com/inderpreet59173/COMP-229-Assignment-2-Inder/issues"
   },
-  "homepage": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder#readme"
+  "homepage": "https://github.com/inderpreet59173/COMP-229-Assignment-2-Inder#readme",
+  "keywords": [
+    "assignment-2"
+  ]
 }

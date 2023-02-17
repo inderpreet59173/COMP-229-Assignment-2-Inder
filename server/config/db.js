@@ -1,5 +1,5 @@
 module.exports = 
 {
    // "URI": "mongodb://localhost/contact_list"
-    "URI": "mongodb+srv://inder:Ij60ojm2SbVdBCrV@mongodbserver.z0kbq.mongodb.net/contact_list?retryWrites=true&w=majority"
+    "URI": "mongodb+srv://arjensdq123:<password>@ass1cluster.y6g8jvw.mongodb.net/?retryWrites=true&w=majority"
 }       //added database URI
